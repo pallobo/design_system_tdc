@@ -1,0 +1,3 @@
+include ':lib_design_system'
+include ':app'
+rootProject.name = "design_system_tdc"

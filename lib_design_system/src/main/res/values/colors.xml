@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_opactity_30">#4DFFFFFF</color>
+    <color name="white_opactity_70">#B3FFFFFF</color>
+
+    <color name="blue_cyan">#0bb5af</color>
+    <color name="blue_cyan_light">#72f2ee</color>
+    <color name="blue_cyan_water">#afedeb</color>
+
+    <color name="grey_smoke">#767676</color>
+    <color name="grey_cloud">#cccccc</color>
+
+    <color name="button_white_disabled">@color/white_opactity_30</color>
+
+    <color name="button_enabled">@color/blue_cyan</color>
+    <color name="button_disabled">@color/grey_cloud</color>
+    <color name="button_focused_contained">@color/blue_cyan_light</color>
+    <color name="button_text_contained">@color/white</color>
+    <color name="button_text_disabled">@color/grey_smoke</color>
+
+    <color name="button_focused_outlined">@color/blue_cyan_water</color>
+    <color name="button_text_outlined">@color/blue_cyan</color>
+    <color name="button_text_outlined_white">@color/white_opactity_70</color>
+</resources>

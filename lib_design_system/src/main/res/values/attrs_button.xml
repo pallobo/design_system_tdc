@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TDCButton">
+        <attr name="buttonType" format="enum">
+            <enum name="contained" value="0"/>
+            <enum name="outlined" value="1"/>
+        </attr>
+        <attr name="text" format="string"/>
+        <attr name="enabled" format="boolean"/>
+    </declare-styleable>
+</resources>
