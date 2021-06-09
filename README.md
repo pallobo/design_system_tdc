@@ -6,3 +6,5 @@ No exemplo aqui listado, foi criado um componente personalizado de botão em um 
 As alterações poderam ser feita de forma escaláveis apenas alterando a própria lib nos arquivos de style ou classe de controle da view.
 
 
+#### Tela de exemplo
+![Exemplo de Botão primário](/docs/example_button.png)
